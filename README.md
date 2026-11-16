@@ -3,7 +3,7 @@
 
 # 𝓩𝓾𝓷𝓪𝓲𝓻𝓪
 
-### ⚡ WEB3 DEVELOPER | BLOCKCHAIN BUILDER ⚡
+WEB3 DEVELOPER | BLOCKCHAIN BUILDER 
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=800&color=67F5FF&center=true&vCenter=true&width=600&lines=BUILDING+IN+WEB3;EXPLORING+BLOCKCHAIN;CREATING+SOMETHING+NEW" />
 
@@ -13,14 +13,14 @@
 
 ## 👩‍💻 ABOUT ME
 
-Hey! I'm Zunaira.
+Hey I'm Zunaira
 
 I explore Web3, blockchain technology and AI-powered development.
 
-- 🚀 Building Web3 projects
-- 🔗 Exploring blockchain ecosystems
-- 💻 Learning smart contract development
-- ⚡ Interested in innovative technologies
+-  Building Web3 projects
+-  Exploring blockchain ecosystems
+-  Learning smart contract development
+-  Interested in innovative technologies
 
 ## 🛠️ TECH STACK
 
@@ -30,9 +30,6 @@ I explore Web3, blockchain technology and AI-powered development.
 ![Solidity](https://img.shields.io/badge/Solidity-0B1020?style=for-the-badge&logo=solidity&logoColor=67F5FF)
 ![GitHub](https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
-## 🚀 MY PROJECT
-
-[![Fermah Operator Preflight](https://github-readme-stats.vercel.app/api/pin/?username=Zunaira55650&repo=fermah-operator-preflight&theme=tokyonight)](https://github.com/Zunaira55650/fermah-operator-preflight)
 
 ## 📊 GITHUB STATS
 
