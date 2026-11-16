@@ -16,3 +16,11 @@
 ✦ BUILDING MY OWN PATH ✦
 
 </div>
+
+<h3>⚡ TECH STACK</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,react,nodejs,git,github&theme=dark" />
+
+</div>
