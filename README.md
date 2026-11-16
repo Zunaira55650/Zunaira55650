@@ -1,81 +1,49 @@
 
-<!--
-**Zunaira55650/Zunaira55650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=2500&pause=1000&color=67F5FF&center=true&vCenter=true&width=700&height=80&lines=ZUNAI​RA;WEB3+BUILDER;BUILDING+BEYOND+LIMITS" />
+# 𝓩𝓾𝓷𝓪𝓲𝓻𝓪
 
-<h3>⚡ WEB3 DEVELOPER | BLOCKCHAIN ENTHUSIAST ⚡</h3>
+### ⚡ WEB3 DEVELOPER | BLOCKCHAIN BUILDER ⚡
 
-<img src="https://img.shields.io/badge/WEB3-BUILDER-0B1020?style=for-the-badge&logo=ethereum&logoColor=67F5FF"/>
-<img src="https://img.shields.io/badge/BLOCKCHAIN-EXPLORER-0B1020?style=for-the-badge&logo=bitcoin&logoColor=FF4FD8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=800&color=67F5FF&center=true&vCenter=true&width=600&lines=BUILDING+IN+WEB3;EXPLORING+BLOCKCHAIN;CREATING+SOMETHING+NEW" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 ABOUT ME
 
-Hey, I'm **Zunaira**!
+Hey! I'm Zunaira.
 
-I'm exploring Web3, blockchain technology and AI-powered tools.
+I explore Web3, blockchain technology and AI-powered development.
 
-- 🔭 Working on Web3 and blockchain projects.
-- 🌱 Learning smart contracts and decentralized technologies.
-- ⚡ Interested in building useful products.
-- 🚀 Always experimenting with new ideas.
+- 🚀 Building Web3 projects
+- 🔗 Exploring blockchain ecosystems
+- 💻 Learning smart contract development
+- ⚡ Interested in innovative technologies
 
-## 🛠️ Tech Stack
+## 🛠️ TECH STACK
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=67F5FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1020?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0B1020?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Solidity](https://img.shields.io/badge/Solidity-0B1020?style=for-the-badge&logo=solidity&logoColor=67F5FF)
+![GitHub](https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,solidity,html,css,git,github,docker&theme=dark"/>
+## 🚀 MY PROJECT
 
-</div>
+[![Fermah Operator Preflight](https://github-readme-stats.vercel.app/api/pin/?username=Zunaira55650&repo=fermah-operator-preflight&theme=tokyonight)](https://github.com/Zunaira55650/fermah-operator-preflight)
 
-## 🚀 Featured Project
+## 📊 GITHUB STATS
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zunaira55650&show_icons=true&theme=tokyonight&hide_border=true)
 
-<a href="https://github.com/Zunaira55650/fermah-operator-preflight">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zunaira55650&repo=fermah-operator-preflight&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zunaira55650&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zunaira55650&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Zunaira55650&theme=tokyonight&hide_border=true" width="80%"/>
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zunaira55650&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 <div align="center">
 
-### ⚡ BUILD • EXPLORE • INNOVATE ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2FFF,100:FF4FD8&height=100&section=footer"/>
+### BUILD • EXPLORE • INNOVATE
 
 </div>
-to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
